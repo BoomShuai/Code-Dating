@@ -1,2 +1,7 @@
-# Code-Dating
-Record the code for each day
+# Shaweima Final Tesk
+记录一下大学数据结构的课程设计，这个是我人生中第一次的课程设计
+写了一个用户管理程序和老板监视模块
+使用C++书写，搭配EasyX图形库使用
+希望有所帮助
+
+
